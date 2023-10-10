@@ -9,11 +9,11 @@ A live inventory management system.
 
 Programming Languages: HTML, CSS, JavaScript, Bootstrap, PHP, MySQL.
 
+<h3>Output Screenshot</h3>
 <img src="https://github.com/pratik9933/Jwellery-shop-managment-system/assets/130751686/bea0fdb8-3e9e-4db8-a3ab-5f711becb9f7" height="300" width="330">
 <img src="https://github.com/pratik9933/Jwellery-shop-managment-system/assets/130751686/d25451bf-7d83-41f3-8371-203f980f0ca0" height="300" width="330">
 <img src="https://github.com/pratik9933/Jwellery-shop-managment-system/assets/130751686/1f4393c1-168a-4304-ade0-a384ffb2e282" height="300" width="330">
 <img src="https://github.com/pratik9933/Jwellery-shop-managment-system/assets/130751686/0ba37bdf-adf6-47fd-98ea-20cb15bf69eb" height="300" width="330">
-<img src="https://github.com/pratik9933/Jwellery-shop-managment-system/assets/130751686/60e80ec8-6038-4cd4-b2aa-20ba2ecd8493" height="300" width="330">
 
 <img src="https://github.com/pratik9933/Jwellery-shop-managment-system/assets/130751686/60e80ec8-6038-4cd4-b2aa-20ba2ecd8493" height="300" width="330">
 <img src="https://github.com/pratik9933/Jwellery-shop-managment-system/assets/130751686/171d487c-7da0-4671-867b-14cf996572a9" height="300" width="330">
