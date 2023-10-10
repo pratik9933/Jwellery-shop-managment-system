@@ -1,4 +1,4 @@
- # Jwellery Shope Ecommerce Website Managment System
+ # Jewelry Shope Ecommerce Website Managment System
 
 The following project belongs to my final year in college, where I conducted research on small-scale jewelry shops. This research was conducted during the pandemic when businesses were transitioning back to regular operations. During this time, online platforms became more familiar and trustworthy. However, they did not provide any benefits to small retail shops, which were facing management issues. Many software companies in the market were not using their software, so customer information was not shared with them. They were all searching for a reliable source where customers and business owners could connect and run their businesses smoothly and under their control.
 
