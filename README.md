@@ -9,5 +9,6 @@ A live inventory management system.
 
 Programming Languages: HTML, CSS, JavaScript, Bootstrap, PHP, MySQL.
 
-<img src="https://github.com/pratik9933/Jwellery-shop-managment-system/assets/130751686/bea0fdb8-3e9e-4db8-a3ab-5f711becb9f7" height="300" width="200">
+<img src="https://github.com/pratik9933/Jwellery-shop-managment-system/assets/130751686/bea0fdb8-3e9e-4db8-a3ab-5f711becb9f7" height="300" width="330">
+<img src="https://github.com/pratik9933/Jwellery-shop-managment-system/assets/130751686/bea0fdb8-3e9e-4db8-a3ab-5f711becb9f7" height="300" width="330">
 
