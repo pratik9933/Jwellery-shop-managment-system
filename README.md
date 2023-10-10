@@ -1,15 +1,23 @@
  # Jwellery-shop-managment-system
-Problem: We have created the following project to address the specific issues faced by the Jewelry Business after Covid-19. Many customers now demand online services, and WhatsApp Business is not fully integrating with the business due to its limited features. They are looking for a great, easy-to-use, and multifunctional web application to make their operations more convenient.
 
-Features:
-A fully functional website for customers |
-A multi-solution backend control system |
-An intelligent inventory management system |
-A live inventory management system.
+The following project belongs to my final year in college, where I conducted research on small-scale jewelry shops. This research was conducted during the pandemic when businesses were transitioning back to regular operations. During this time, online platforms became more familiar and trustworthy. However, they did not provide any benefits to small retail shops, which were facing management issues. Many software companies in the market were not using their software, so customer information was not shared with them. They were all searching for a reliable source where customers and business owners could connect and run their businesses smoothly and under their control.
 
-Programming Languages: HTML, CSS, JavaScript, Bootstrap, PHP, MySQL.
+The following web application is a fully research-based project. As a result, it includes multiple features that are more beneficial for both customers and store owners, such as:
 
-<h3>Output Screenshot</h3>
+- Live jewelry cost calculation
+- Upload favorite designs
+- Exclusive collection booking in advance
+- A well-functional e-commerce website
+- Store operation support system for both retail and online stores
+- Billing, inventory management, smart reporting, dashboard, a small HR system, and employee work status tracking
+- Online order handling with a smart dashboard
+- Customer query management system
+- And many more...
+
+Programming Languages Used: HTML, CSS, Bootstrap, JS, PHP, MySQL, Some API
+
+
+<h4>Output Screenshot</h4>
 <img src="https://github.com/pratik9933/Jwellery-shop-managment-system/assets/130751686/bea0fdb8-3e9e-4db8-a3ab-5f711becb9f7" height="300" width="330">
 <img src="https://github.com/pratik9933/Jwellery-shop-managment-system/assets/130751686/d25451bf-7d83-41f3-8371-203f980f0ca0" height="300" width="330">
 <img src="https://github.com/pratik9933/Jwellery-shop-managment-system/assets/130751686/1f4393c1-168a-4304-ade0-a384ffb2e282" height="300" width="330">
